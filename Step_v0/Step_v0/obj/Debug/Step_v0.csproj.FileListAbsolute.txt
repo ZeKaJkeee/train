@@ -1,0 +1,18 @@
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\bin\Debug\Step_v0.exe.config
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\bin\Debug\Step_v0.exe
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\bin\Debug\Step_v0.pdb
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\obj\Debug\Step_v0.csprojResolveAssemblyReference.cache
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\obj\Debug\Step_v0.Form1.resources
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\obj\Debug\Step_v0.Properties.Resources.resources
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\obj\Debug\Step_v0.csproj.GenerateResource.Cache
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\obj\Debug\Step_v0.exe
+c:\users\жанна\documents\visual studio 2015\Projects\Step_v0\Step_v0\obj\Debug\Step_v0.pdb
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\bin\Debug\Step_v0.exe.config
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\obj\Debug\Step_v0.exe
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\obj\Debug\Step_v0.pdb
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\bin\Debug\Step_v0.exe
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\bin\Debug\Step_v0.pdb
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\obj\Debug\Step_v0.csprojResolveAssemblyReference.cache
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\obj\Debug\Step_v0.Form1.resources
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\obj\Debug\Step_v0.Properties.Resources.resources
+C:\Users\ZeKa\Documents\GitHub\Poezd-master\Step_v0\Step_v0\obj\Debug\Step_v0.csproj.GenerateResource.Cache
